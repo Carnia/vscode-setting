@@ -1,5 +1,6 @@
 # vscode-setting
 vscode-setting
+
 1、Settings Sync是vscode中同步设置和安装插件的小工具，在扩展商店中搜索并安装它 
 
 2、登陆Github>Your profile> settings>Developer settings>personal access tokens>generate new token，输入名称，勾选Gist，提交
